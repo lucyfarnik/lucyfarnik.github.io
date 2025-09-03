@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student at the [University of Bristol](https://www.bristol.ac.uk/cdt/interactive-ai/) researching robustness and continual learning in LLM agents under [Laurence Aitchison](https://www.laurenceai.com/).
+I'm an ML PhD student at the [University of Bristol](https://www.bristol.ac.uk/cdt/interactive-ai/) researching robustness and continual learning in LLM agents under [Laurence Aitchison](https://www.laurenceai.com/).
 
 I started coding at age 7 and by age 18 I was a senior dev at a startup.
 After a few years working there, I decided to switch to ML research.
