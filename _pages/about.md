@@ -35,4 +35,4 @@ I've also received over $100k in research grants and I cofounded a small researc
 I've published at ICLR/ICML in areas ranging from [RL theory](https://arxiv.org/pdf/2309.15257) to [LLM interpretability](https://arxiv.org/pdf/2502.18147).
 Most recently, I'm excited about ways that LLM agents can effectively learn from their open-ended interactions with their environment, and how we can ensure that the things they're learning are aligned with what we want.
 
-I'm always excited to meet new people with similar research interests -- do feel free to reach out! :)
+I'm always excited to meet new people with similar research interests -- do feel free to reach out! :) You're also welcome to [send me anonymous advice/feedback](http://tinyurl.com/AdviceForLucy).
