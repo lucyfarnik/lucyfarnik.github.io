@@ -31,6 +31,7 @@ After a few years working there, I decided to switch to ML research.
 During undergrad I collaborated with researchers from [Oxford](https://www.cs.ox.ac.uk/), [Berkeley](https://eecs.berkeley.edu/), and [FAR AI](https://far.ai/).
 I then did [ARENA](https://www.arena.education/), [MATS](https://www.matsprogram.org/) (mentored by Neel Nanda from [Google DeepMind](https://deepmind.google/)), and lots of other research placements.
 I've also received over $100k in research grants and I cofounded a small research org working on AI security and emerging tech policy.
+My Erdős number is 4.
 
 I've published at ICLR/ICML in areas ranging from [RL theory](https://arxiv.org/pdf/2309.15257) to [LLM interpretability](https://arxiv.org/pdf/2502.18147).
 Most recently, I'm excited about ways that LLM agents can effectively learn from their open-ended interactions with their environment, and how we can ensure that the things they're learning are aligned with what we want.
