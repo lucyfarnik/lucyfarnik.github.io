@@ -36,6 +36,6 @@ My Erdős number is 4.
 I've published at ICLR/ICML in areas ranging from [RL theory](https://arxiv.org/pdf/2309.15257) to [LLM interpretability](https://arxiv.org/pdf/2502.18147).
 Most recently, I'm excited about ways that LLM agents can effectively learn from their open-ended interactions with their environment, and how we can ensure that the things they're learning are aligned with what we want.
 
-I'm always excited to meet new people with similar research interests -- do feel free to reach out!
-My email is {first name}{last name} at gmail.
+I'm always excited to meet new people with similar research interests!
+My email is {firstname}{lastname} at gmail.
 You're also welcome to [send me anonymous advice/feedback](http://tinyurl.com/AdviceForLucy).
