@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-paper-jacobian-sparse-autoencoders-sparsify-computations-not-just-activations",
+        },{id: "post-jacobian-sparse-autoencoders-sparsify-computations-not-just-activations",
         
-          title: "[PAPER] Jacobian Sparse Autoencoders: Sparsify Computations, Not Just Activations",
+          title: "Jacobian Sparse Autoencoders: Sparsify Computations, Not Just Activations",
         
         description: "We just published a paper aimed at discovering “computational sparsity”, rather than just sparsity in the representations.",
         section: "Posts",
