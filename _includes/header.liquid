@@ -102,6 +102,8 @@
                     {%- assign url = p.permalink -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
+                  {%- elsif p.title == 'cv' and p.cv_pdf -%}
+                    {%- assign url = '/assets/pdf/' | append: p.cv_pdf -%}
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
