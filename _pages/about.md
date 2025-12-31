@@ -24,7 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an ML PhD student researching robustness and continual learning in LLM agents. I'm fortunate to be advised by [Yuki Asano](https://yukimasano.github.io/) and [Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), alongside my official supervisors [Conor Houghton](https://conorhoughton.github.io/) and [Mengyue Yang](https://ymy4323460.github.io/).
+I'm a machine learning PhD student researching robustness and continual learning in LLM agents.
+<!-- I'm fortunate to be advised by [Yuki Asano](https://yukimasano.github.io/) and [Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), alongside my official supervisors [Conor Houghton](https://conorhoughton.github.io/) and [Mengyue Yang](https://ymy4323460.github.io/). -->
 
 I started coding at age 7 and by age 18 I was a senior dev at a startup.
 After a few years working there, I decided to switch to ML research.
