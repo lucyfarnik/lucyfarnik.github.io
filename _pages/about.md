@@ -25,7 +25,6 @@ latest_posts:
 ---
 
 I'm a machine learning PhD student researching robustness and continual learning in LLM agents.
-<!-- I'm fortunate to be advised by [Yuki Asano](https://yukimasano.github.io/) and [Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), alongside my official supervisors [Conor Houghton](https://conorhoughton.github.io/) and [Mengyue Yang](https://ymy4323460.github.io/). -->
 
 I started coding at age 7 and by age 18 I was a senior dev at a startup.
 After a few years working there, I decided to switch to ML research.
@@ -36,6 +35,8 @@ My Erdős number is 4.
 
 I've published at ICLR/ICML in areas ranging from [RL theory](https://arxiv.org/pdf/2309.15257) to [LLM interpretability](https://arxiv.org/pdf/2502.18147).
 Most recently, I'm excited about ways that LLM agents can effectively learn from their open-ended interactions with their environment, and how we can ensure that the things they're learning are aligned with what we want.
+
+<!-- I'm fortunate to be advised by [Yuki Asano](https://yukimasano.github.io/) and [Oana-Maria Camburu](https://sites.google.com/view/oana-maria-camburu/), alongside my official supervisors [Conor Houghton](https://conorhoughton.github.io/) and [Mengyue Yang](https://ymy4323460.github.io/). -->
 
 I'm always excited to meet new people with similar research interests!
 My email is {firstname}{lastname} at gmail.
