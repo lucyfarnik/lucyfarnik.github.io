@@ -30,6 +30,7 @@ I started coding at age 7 and by age 18 I was a senior dev at a startup.
 After a few years working there, I decided to switch to ML research.
 During undergrad I collaborated with researchers from [Oxford](https://www.cs.ox.ac.uk/), [Berkeley](https://eecs.berkeley.edu/), and [FAR AI](https://far.ai/).
 I then did [ARENA](https://www.arena.education/), [MATS](https://www.matsprogram.org/) (mentored by Neel Nanda from [Google DeepMind](https://deepmind.google/)), and lots of other research placements.
+Most recently, I was a research intern at [Jane Street](https://www.janestreet.com/).
 I've also received over $100k in research grants and I cofounded a small research org working on AI security and emerging tech policy.
 My Erdős number is 4.
 
